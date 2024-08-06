@@ -2,7 +2,7 @@
   "branches": [
     "master"
   ],
-  "repositoryUrl": "https://github.com/yyersultan29/vite-ts-package-ccb.git",
+  "repositoryUrl": "https://github.com/yyersultan29/vite-ts-package-ccb",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
